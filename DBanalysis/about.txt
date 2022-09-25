@@ -1,0 +1,34 @@
+everything it's in Portuguese
+
+the task was that i was have to do a database analysis knowing about:
+
+**Problem to be analyzed**
+
+- Decision to invest in certain films based on their popularity (note)
+- Total number of leases will define the COMPANY REVENUE
+- The average rating of the films will define CUSTOMER SATISFACTION
+- The number of active customers will define the CUSTOMER ENGAGEMENT
+- Customer preferences according to region and gender
+- Popularity of movies by genre and year of release
+- Movies with above average rating
+
+**Instructions**
+
+1. You should start by doing an analysis to find out the average rental price of movies.
+2. Now that you know the average price for renting movies from the video store, you should go further in your analysis and find out what the average price is.
+for each film genre.
+3. You should change the previous query and consider the following
+scenario - Perform the same analysis, but considering only the films with
+YEAR_RELEASE (ANO_LANCAMENTO in PT) equal to 2011.
+4. You will need to do a rental performance review. For
+Therefore, a common analysis is to identify which rentals had a grade above
+average
+5. Present the results
+
+Results: https://docs.google.com/document/d/1yxdCObxNDQZnRJmzPdyIdP4TMOPkaNzXre32h5nvjUY/edit
+(in Portuguese, of course).
+
+the data is on DBanalysis folder and the SQL archive with all done is on tarefa.sql
+
+so that's all, thanks for reading this far.
+
